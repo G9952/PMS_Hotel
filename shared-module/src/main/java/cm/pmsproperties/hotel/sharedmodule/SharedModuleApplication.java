@@ -1,13 +1,13 @@
-package cm.pmsproperties.hotel.sharedmodulcustomer;
+package cm.pmsproperties.hotel.sharedmodule;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SharedModulCustomerApplication {
+public class SharedModuleApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SharedModulCustomerApplication.class, args);
+        SpringApplication.run(SharedModuleApplication.class, args);
     }
 
 }
